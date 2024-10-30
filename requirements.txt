@@ -1,0 +1,6 @@
+requests==2.32.3
+geopy==2.4.1
+pandas==2.2.3
+haversine==2.8.1
+Django==3.2.23
+djangorestframework==3.14.0
